@@ -1,3 +1,0 @@
- Get-Process -Name "notepad"
-  taskkill /F /PID 6460
-  Get-Process -Name "notepad"
